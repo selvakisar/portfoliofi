@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function About() {
   return (
-    <div className='flex flex-col justify-center items-center'>
+    <div className='flex flex-col justify-center items-center max-h-screen'>
       <h1 className='text-6xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-center  font-serif font-semibold underline py-6'>
         About Me
       </h1>
