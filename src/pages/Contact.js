@@ -39,7 +39,7 @@ export default function Contact() {
     </div>
 
     <div>
-       <a href="https://drive.google.com/file/d/1V-8HAocZ9y63gaFYlZ41TMQhuCZrzIEI/view?usp=drive_link"  target="_blank" rel="noopener noreferrer" className="text-red-700 hover:text-emerald-600  text-2xl flex justify-center">
+       <a href="https://drive.google.com/file/d/1njFxjYgIweT-tsTlUHMYwmmptKUB0FXq/view?usp=drive_link"  target="_blank" rel="noopener noreferrer" className="text-red-700 hover:text-emerald-600  text-2xl flex justify-center">
           <FaPaperclip className='mx-2 text-black ' />Resume
         </a>
        </div>
