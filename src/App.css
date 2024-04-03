@@ -1,6 +1,24 @@
-.App {
-  text-align: center;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins','Montserrat', sans-serif;
+    
 }
+
+
+
+body{
+  background-image:conic-gradiant(#ff0052 20deg transparent 120deg); ;
+  margin: 0px !important;
+  padding: 0;
+  font-family: ' sans-serif';
+}
+
 
 .App-logo {
   height: 40vmin;
@@ -13,8 +31,20 @@
   }
 }
 
+.fade-enter {
+  opacity: 0;
+  transform: translateY(-20%);
+}
+
+.fade-enter-active {
+  opacity: 1;
+  transform: translateY(0%);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+  
 .App-header {
-  background-color: #282c34;
+  background-color: #025ba9;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
