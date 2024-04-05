@@ -3,7 +3,7 @@ import "./Anime.css";
 export default function Projects() {
   return (
     <div>
-      <h1 className="text-6xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-center  font-serif font-semibold underline py-6">
+      <h1 className="text-gray-50 text-6xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-center  font-serif font-semibold underline py-6">
         Projects
       </h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-4">

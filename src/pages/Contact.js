@@ -4,7 +4,7 @@ import { FaGithub, FaLinkedinIn, FaMailBulk, FaMailchimp, FaMedium, FaMediumM, F
 export default function Contact() {
   return (
     <div>
-      <h1 className="text-5xl font-bold underline font-serif  mb-4 justify-center flex h-fit">Connect with Me</h1>
+      <h1 className="text-5xl text-gray-50 font-bold underline font-serif  mb-4 justify-center flex h-fit">Connect with Me</h1>
 
    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 gap-4 justify-center items-center h-40">
       <div className="  ">
