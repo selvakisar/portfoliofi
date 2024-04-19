@@ -8,7 +8,7 @@ export default function Projects() {
       </h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-4">
         <div>
-          <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center  font-serif font-semibold">Interviwe App</h1>
+          <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center text-gray-50   font-serif font-semibold">Interviwe App</h1>
 
           <div className="bg-sky-900 border-2 border-neutral-950 shadow-lg shadow-red-500/75 md:shadow-xl md:shadow-red-500/75 flex justify-center items-center rounded-lg">
             <div className=" px-2">
@@ -37,7 +37,7 @@ export default function Projects() {
         </div>
 
         <div>
-        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center  font-serif font-semibold">Blog App</h1>
+        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center text-gray-50 font-serif font-semibold">Blog App</h1>
 
           <div className="bg-sky-900 border-2 border-neutral-950 shadow-lg shadow-red-500/75 md:shadow-xl md:shadow-red-500/75 flex justify-center items-center rounded-lg">
             <div className=" px-2">
@@ -69,7 +69,7 @@ export default function Projects() {
         </div>
 
         <div>
-        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center  font-serif font-semibold">
+        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center text-gray-50 font-serif font-semibold">
             Realtime Chat app
           </h1>
 
@@ -106,7 +106,7 @@ export default function Projects() {
         </div>
 
         <div>
-        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center  font-serif font-semibold">Diet Plan app</h1>
+        <h1 className=" flex justify-center items-center text-2xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl text-center text-gray-50 font-serif font-semibold">Diet Plan app</h1>
 
           <div className="bg-sky-900 border-2 border-neutral-950 shadow-lg shadow-red-500/75 md:shadow-xl md:shadow-red-500/75 flex justify-center items-center rounded-lg">
             <div className=" px-2">
